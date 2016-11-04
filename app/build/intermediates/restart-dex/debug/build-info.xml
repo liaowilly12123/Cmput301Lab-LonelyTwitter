@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="18"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="233581360241112"
+    token="6203935206633569688"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="516" />
+    <task
+        name="instant-run-dex"
+        duration="880" />
+    <task
+        name="instant-run-transform"
+        duration="54" />
+    <task
+        name="verifier"
+        duration="23" />
+
+    <artifact
+        location="/Users/willyliao/Desktop/lonelyTwitter/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="233468034787855"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/willyliao/Desktop/lonelyTwitter/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="233581360241112"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/willyliao/Desktop/lonelyTwitter/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

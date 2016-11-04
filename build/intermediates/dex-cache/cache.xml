@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/willyliao/Desktop/lonelyTwitter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f2a376da9ae843c4210237a6f3e7237aa800bba3">
+        <dex dex="/Users/willyliao/Desktop/lonelyTwitter/app/build/intermediates/pre-dexed/debug/instant-run_72ca233e7e712bd744920507f4b7a2625cd2c87a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/willyliao/.gradle/caches/modules-2/files-2.1/com.jayway.android.robotium/robotium-solo/5.6.3/94ec2d7b23be9817d92905cc09124aecfc46d28c/robotium-solo-5.6.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="94ec2d7b23be9817d92905cc09124aecfc46d28c">
+        <dex dex="/Users/willyliao/Desktop/lonelyTwitter/app/build/intermediates/pre-dexed/debug/robotium-solo-5.6.3_4013498d71128e2b435af807c788d44a825541be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/willyliao/Desktop/lonelyTwitter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7faebcee53349dad66062b85e84c132f4cac007f">
+        <dex dex="/Users/willyliao/Desktop/lonelyTwitter/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_1416f8353112da31e640d741c1b9a6477364639f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/willyliao/Desktop/lonelyTwitter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="/Users/willyliao/Desktop/lonelyTwitter/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-18.0.0_1c1414ea30cfc5867e792ba448f9a99baaad2b0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/willyliao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/willyliao/Desktop/lonelyTwitter/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_521949cb7397da3f7172666dd30a8dbc47791318.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/willyliao/Desktop/lonelyTwitter/app/src/include/jest-droid-2.0.1-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e1199e84d8d3907b8262330dd6976ce04d37f6de">
+        <dex dex="/Users/willyliao/Desktop/lonelyTwitter/app/build/intermediates/pre-dexed/debug/jest-droid-2.0.1-SNAPSHOT_d360b424e9ba4f436fffa555b89f08cb24623e9d.jar" />
+    </item>
+
+</items>
